@@ -1,4 +1,4 @@
-*[ENGLISH](README.md) ∙ [ESPAÑOL]((https://github.com/Danipiza/Danipiza/blob/main/README_ESP.md)* <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danipiza.danipiza" />
+*[ENGLISH](README.md) ∙ [ESPAÑOL](https://github.com/Danipiza/Danipiza/blob/main/README_ESP.md)* <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danipiza.danipiza" />
 
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
