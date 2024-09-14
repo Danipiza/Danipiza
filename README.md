@@ -11,7 +11,7 @@
 
 <div align="center">
  
-  🔭 I’m seeking for employment opportunities in the AI world to start working in september.
+  🔭 I’m seeking for employment opportunities in the AI world.
    
   🌱 I’m currently expanding my knowledge in **Competitive Programming, DL & RL AI algorithms and Open Source Python libraries**
   
