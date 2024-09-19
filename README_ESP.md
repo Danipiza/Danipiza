@@ -11,7 +11,7 @@
 
 <div align="center">
  
-  🔭 Estoy buscando opurtunidades laborales en el mundo de la IA para empezar en septiembre.
+  🔭 Estoy buscando opurtunidades laborales en el mundo de la IA. [CV_ES](https://github.com/Danipiza/Danipiza/blob/main/CV_ES.pdf) [CV_EN](https://github.com/Danipiza/Danipiza/blob/main/CV_EN.pdf) 
    
   🌱 Actualmente expandiendo mis conociminentos en **Programación Competitiva, Algoritmos DL & RL de IA y librerías de Python de Código Abierto**
   

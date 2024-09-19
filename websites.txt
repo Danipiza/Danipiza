@@ -1,6 +1,9 @@
 TITTLE (Hello there 👋! br I'm Daniel)
 https://readme-typing-svg.herokuapp.com/demo/
 
+SVG ICONS
+https://www.svgrepo.com/
+
 VISITOR BADGE
 https://visitor-badge.laobi.icu/
 
