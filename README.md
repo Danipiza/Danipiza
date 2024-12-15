@@ -9,9 +9,13 @@
 
 <br/> 
 
+<!--
+[CV_EN](https://github.com/Danipiza/Danipiza/blob/main/CV_EN.pdf) [CV_ES](https://github.com/Danipiza/Danipiza/blob/main/CV_ES.pdf)
+-->
+
 <div align="center">
  
-  🔭 I’m seeking for employment opportunities in the AI world. [CV_EN](https://github.com/Danipiza/Danipiza/blob/main/CV_EN.pdf) [CV_ES](https://github.com/Danipiza/Danipiza/blob/main/CV_ES.pdf)
+  🔭 I’m working for [eProsima - Middleware, Robots and AI](https://github.com/eProsima).
    
   🌱 I’m currently expanding my knowledge in **Competitive Programming, DL & RL AI algorithms and Open Source Python libraries**
   
